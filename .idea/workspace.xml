@@ -15,6 +15,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1a0ilNOBE3Ita7nX4D4ylreiet6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +28,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/myblog/templates" />
   </component>
   <component name="RecentsManager">
@@ -85,25 +90,25 @@
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="378" y="95" key="#Inspections/0.23.1440.809@0.23.1440.809" timestamp="1586460107266" />
-    <state width="1148" height="146" key="GridCell.Tab.0.bottom" timestamp="1587429111676">
+    <state width="1148" height="146" key="GridCell.Tab.0.bottom" timestamp="1587430716817">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1148" height="146" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1587429111676" />
+    <state width="1148" height="146" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1587430716817" />
     <state width="1148" height="146" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587402155737" />
-    <state width="1148" height="146" key="GridCell.Tab.0.center" timestamp="1587429111675">
+    <state width="1148" height="146" key="GridCell.Tab.0.center" timestamp="1587430716816">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1148" height="146" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1587429111675" />
+    <state width="1148" height="146" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1587430716816" />
     <state width="1148" height="146" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587402155736" />
-    <state width="1148" height="146" key="GridCell.Tab.0.left" timestamp="1587429111674">
+    <state width="1148" height="146" key="GridCell.Tab.0.left" timestamp="1587430716815">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1148" height="146" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1587429111674" />
+    <state width="1148" height="146" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1587430716814" />
     <state width="1148" height="146" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587402155736" />
-    <state width="1148" height="146" key="GridCell.Tab.0.right" timestamp="1587429111675">
+    <state width="1148" height="146" key="GridCell.Tab.0.right" timestamp="1587430716817">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1148" height="146" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1587429111675" />
+    <state width="1148" height="146" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1587430716817" />
     <state width="1148" height="146" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587402155737" />
     <state x="151" y="126" width="1040" height="605" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586476733027">
       <screen x="0" y="23" width="1440" height="809" />
@@ -113,5 +118,9 @@
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="543" y="125" width="639" height="552" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.809@0.23.1440.809" timestamp="1586467889564" />
+    <state x="493" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587491928913">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="493" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.809@0.23.1440.809" timestamp="1587491928913" />
   </component>
 </project>

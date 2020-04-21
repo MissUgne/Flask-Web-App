@@ -1,13 +1,12 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 import os
-import os.path as op
 from flask_bcrypt import Bcrypt
 from flask_login import LoginManager
 
 
 app = Flask(__name__, static_folder='static/files')
-app.config['SECRET_KEY'] = 'f0363f427108741a09e3197c13039f68'
+app.config['SECRET_KEY'] = 'secret'
 db_path = os.path.join(os.path.dirname(__file__), 'site.db')
 db_uri = 'sqlite:////{}'.format(db_path)
 app.config['SQLALCHEMY_DATABASE_URI'] = db_uri
