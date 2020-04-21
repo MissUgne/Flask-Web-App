@@ -1,0 +1,7 @@
+{% extends 'admin/master.html' %}
+{% block body %}
+  <div class="navbar-nav">
+      <a class="nav-item nav-link mar10" href="{{ url_for('logout') }}">Logout</a>
+      <a class="nav-item nav-link mar10" href="{{ url_for('register') }}">Add new user</a>
+  </div>
+{% endblock %}
