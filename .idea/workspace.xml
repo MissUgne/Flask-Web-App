@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374892de-7c2f-4da8-9700-ad7a945546d9" name="Default Changelist" comment="" />
+    <list default="true" id="374892de-7c2f-4da8-9700-ad7a945546d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/routes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/site.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/static/files/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/static/files/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/templates/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/templates/errors/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/templates/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/templates/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblog/templates/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/myblog/templates/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +37,6 @@
   <component name="ProjectId" id="1a0ilNOBE3Ita7nX4D4ylreiet6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -33,11 +47,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/myblog/templates/errors" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/myblog/static/files" />
       <recent name="$PROJECT_DIR$/myblog/templates" />
       <recent name="$PROJECT_DIR$/myblog/templates/admin" />
-      <recent name="$PROJECT_DIR$/myblog/static/files" />
-      <recent name="$PROJECT_DIR$/files" />
-      <recent name="$PROJECT_DIR$/static" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/myblog/templates" />
@@ -90,30 +104,38 @@
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="378" y="95" key="#Inspections/0.23.1440.809@0.23.1440.809" timestamp="1586460107266" />
-    <state width="1148" height="146" key="GridCell.Tab.0.bottom" timestamp="1587430716817">
+    <state x="425" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588192845625">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1148" height="146" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1587430716817" />
+    <state x="425" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.809@0.23.1440.809" timestamp="1588192845625" />
+    <state x="296" y="23" key="CommitChangelistDialog2" timestamp="1588367442573">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="296" y="23" key="CommitChangelistDialog2/0.23.1440.809@0.23.1440.809" timestamp="1588367442573" />
+    <state width="1248" height="195" key="GridCell.Tab.0.bottom" timestamp="1588886478570">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state width="1248" height="195" key="GridCell.Tab.0.bottom/0.23.1440.809@0.23.1440.809" timestamp="1588886478570" />
     <state width="1148" height="146" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587402155737" />
-    <state width="1148" height="146" key="GridCell.Tab.0.center" timestamp="1587430716816">
+    <state width="1248" height="195" key="GridCell.Tab.0.center" timestamp="1588886478568">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1148" height="146" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1587430716816" />
+    <state width="1248" height="195" key="GridCell.Tab.0.center/0.23.1440.809@0.23.1440.809" timestamp="1588886478568" />
     <state width="1148" height="146" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587402155736" />
-    <state width="1148" height="146" key="GridCell.Tab.0.left" timestamp="1587430716815">
+    <state width="1248" height="195" key="GridCell.Tab.0.left" timestamp="1588886478567">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1148" height="146" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1587430716814" />
+    <state width="1248" height="195" key="GridCell.Tab.0.left/0.23.1440.809@0.23.1440.809" timestamp="1588886478567" />
     <state width="1148" height="146" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587402155736" />
-    <state width="1148" height="146" key="GridCell.Tab.0.right" timestamp="1587430716817">
+    <state width="1248" height="195" key="GridCell.Tab.0.right" timestamp="1588886478569">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state width="1148" height="146" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1587430716817" />
+    <state width="1248" height="195" key="GridCell.Tab.0.right/0.23.1440.809@0.23.1440.809" timestamp="1588886478569" />
     <state width="1148" height="146" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587402155737" />
-    <state x="151" y="126" width="1040" height="605" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586476733027">
+    <state x="151" y="126" width="1040" height="605" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588199580152">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="151" y="126" width="1040" height="605" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.809@0.23.1440.809" timestamp="1586476733027" />
+    <state x="151" y="126" width="1040" height="605" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.809@0.23.1440.809" timestamp="1588199580152" />
     <state x="543" y="125" width="639" height="552" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586467889564">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
@@ -122,5 +144,9 @@
       <screen x="0" y="23" width="1440" height="809" />
     </state>
     <state x="493" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.809@0.23.1440.809" timestamp="1587491928913" />
+    <state x="313" y="93" width="791" height="627" key="find.popup" timestamp="1588195996210">
+      <screen x="0" y="23" width="1440" height="809" />
+    </state>
+    <state x="313" y="93" width="791" height="627" key="find.popup/0.23.1440.809@0.23.1440.809" timestamp="1588195996210" />
   </component>
 </project>

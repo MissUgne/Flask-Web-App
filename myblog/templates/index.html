@@ -4,21 +4,21 @@
           <article class="media content-section">
           <div class="media-body">
                <div class="article-metadata">
-                    <p class="text-muted">{{ post.author.username }}</p>
                     <small class="text-muted">{{ post.date_posted.strftime('%Y-%m-%d') }}</small>
                </div>
-               <h2><a class="article-title" href="{{ url_for('post', post_id=post.id) }}">{{ post.title }}</a></h2>
+               <h2><a class="article-title" href="{{ url_for('posts.post', post_id=post.id) }}">{{ post.title }}</a></h2>
                <img class="card-img-top marg20-bot" src="{{url_for('static', filename=post.image.path)}}">
-               <p class="article-content">{{ post.content }}</p>
+               <p class="article-content">{{ post.preview|safe }}</p>
+               <a href="{{ url_for('posts.post', post_id=post.id) }}" class="btn btn-info mb-4">Read more</a>
           </div>
-     </article>
+          </article>
      {% endfor %}
      {% for page_num in posts.iter_pages(left_edge=1, right_edge=1, left_current=1, right_current=2) %}
           {% if page_num %}
                {% if posts.page == page_num %}
-               <a href="{{ url_for('home', page=page_num) }}" class="btn btn-info mb-4">{{ page_num }}</a>
+               <a href="{{ url_for('main.home', page=page_num) }}" class="btn btn-info mb-4">{{ page_num }}</a>
                {% else %}
-               <a href="{{ url_for('home', page=page_num) }}" class="btn btn-outline-info mb-4">{{ page_num }}</a>
+               <a href="{{ url_for('main.home', page=page_num) }}" class="btn btn-outline-info mb-4">{{ page_num }}</a>
                {% endif %}
           {% else %}
                ...
